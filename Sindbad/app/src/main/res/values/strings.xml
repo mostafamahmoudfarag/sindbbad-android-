@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sindbad</string>
+    <string-array name="stories">
+        <item>حكاية السندباد</item>
+        <item>الجزيرة المتحركة والخيول البحرية</item>
+        <item>وادي الآلماس</item>
+        <item>الغول الاسود</item>
+        <item>السندباد يدفن حيا</item>
+        <item>شيخ البحر</item>
+        <item>رحلة نهرية في كهف</item>
+        <item>مقبرة الافيال</item>
+
+
+    </string-array>
+</resources>
